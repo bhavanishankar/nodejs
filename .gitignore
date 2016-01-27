@@ -1,3 +1,7 @@
 /nodetest1/data/
 /nodetest1/bin/
 /nodetest1/journal/
+/nodetest1/node_modules/
+/nodetest1/diagnostic.data/
+/nodetest1/_mdb_catalog.wt
+npm-debug.log
